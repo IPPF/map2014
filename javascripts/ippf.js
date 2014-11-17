@@ -199,7 +199,7 @@ mainMarkers.on('click',function (e) {
 
 // Zoom to the level with lots of markers on click on higher numbered markers
 topMarkers.on('click',function (e) {
-  map.setView(e.latlng, map.getZoom() + 3);
+  map.setView(e.latlng, map.getZoom() + 1);
 
   e.layer.unbindPopup();
   var details = e.layer.feature;

@@ -55,6 +55,10 @@ html, body {
   font-weight: 700;
 }
 
+#info img { 
+ width: 100%;
+}
+
 .embed-container { 
   position: relative; 
   padding-bottom: 56.25%; 
