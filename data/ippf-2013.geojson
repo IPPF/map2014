@@ -109,7 +109,7 @@
         "type": "abortion",
         "country": "Australia",
         "title": "Two legal wins on abortion",
-        "description": "Two state laws changed: abortion decriminalized in Tasmania; new policy that clarifies situations for women seeking termination of pregnancy services in public hospitals in Queensland. <img src=\"http://www.ippf.org/sites/default/files/imagecache/News_Medium_image_420_234/country/uganda.jpg\">"
+        "description": "Two state laws changed: abortion decriminalized in Tasmania; new policy that clarifies situations for women seeking termination of pregnancy services in public hospitals in Queensland. <img src='http://www.ippf.org/sites/default/files/imagecache/News_Medium_image_420_234/country/uganda.jpg'>"
       },
       "type": "Feature",
       "geometry": {
