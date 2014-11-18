@@ -497,7 +497,7 @@
     {
       "id": 30,
       "properties": {
-        "type": "contraception",
+        "type": "access",
         "country": "France",
         "title": " ",
         "description": "Permanent contraception is now free for women under 40; previously, was only free for over 40."
