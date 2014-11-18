@@ -1483,7 +1483,7 @@
     {
       "id": 88,
       "properties": {
-        "type": "contraception",
+        "type": "srhbudget",
         "country": "Uganda",
         "title": " ",
         "description": "Increased budget allocation for contraceptives."
@@ -1500,7 +1500,7 @@
     {
       "id": 89,
       "properties": {
-        "type": "contraception",
+        "type": "access",
         "country": "Uganda",
         "title": " ",
         "description": "Task sharing policy developed where clinical officers can now do permanent FP."
