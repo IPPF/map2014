@@ -871,7 +871,7 @@
     {
       "id": 52,
       "properties": {
-        "type": "contraception",
+        "type": "srhbudget",
         "country": "Malawi",
         "title": " ",
         "description": "National budget allocation for contraception."
