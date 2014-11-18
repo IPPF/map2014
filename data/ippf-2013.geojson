@@ -344,7 +344,7 @@
     {
       "id": 21,
       "properties": {
-        "type": "contraception",
+        "type": "access",
         "country": "Chad",
         "title": " ",
         "description": "National policy on family planning developed."
@@ -395,7 +395,7 @@
     {
       "id": 24,
       "properties": {
-        "type": "contraception",
+        "type": "srh budget",
         "country": "Congo, DR",
         "title": " ",
         "description": "Approval of budget allocation to purchase contraceptives."
