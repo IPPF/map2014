@@ -1585,7 +1585,7 @@
     {
       "id": 94,
       "properties": {
-        "type": "contraception",
+        "type": "srhbudget",
         "country": "United States",
         "title": " ",
         "description": "New regulation that includes IUDs in health insurance plans under the Affordable Care Act."
@@ -1602,7 +1602,7 @@
     {
       "id": 95,
       "properties": {
-        "type": "contraception",
+        "type": "access",
         "country": "United States",
         "title": " ",
         "description": "FP providers recognised as essential community providers under health care reform."
